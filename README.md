@@ -1,6 +1,6 @@
 ### Prerequisites:
 
-- NodeJS (^16.0.0)
+- NodeJS (^20.10.0)
 - yarn
 
 ### Usage:
